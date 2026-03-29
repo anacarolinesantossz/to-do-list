@@ -1,0 +1,14 @@
+C:\Users\anaca\Desktop\to do list\bin\Debug\net10.0\to do list.exe
+C:\Users\anaca\Desktop\to do list\bin\Debug\net10.0\to do list.deps.json
+C:\Users\anaca\Desktop\to do list\bin\Debug\net10.0\to do list.runtimeconfig.json
+C:\Users\anaca\Desktop\to do list\bin\Debug\net10.0\to do list.dll
+C:\Users\anaca\Desktop\to do list\bin\Debug\net10.0\to do list.pdb
+C:\Users\anaca\Desktop\to do list\obj\Debug\net10.0\to do list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\Desktop\to do list\obj\Debug\net10.0\to do list.AssemblyInfoInputs.cache
+C:\Users\anaca\Desktop\to do list\obj\Debug\net10.0\to do list.AssemblyInfo.cs
+C:\Users\anaca\Desktop\to do list\obj\Debug\net10.0\to do list.csproj.CoreCompileInputs.cache
+C:\Users\anaca\Desktop\to do list\obj\Debug\net10.0\to do list.dll
+C:\Users\anaca\Desktop\to do list\obj\Debug\net10.0\refint\to do list.dll
+C:\Users\anaca\Desktop\to do list\obj\Debug\net10.0\to do list.pdb
+C:\Users\anaca\Desktop\to do list\obj\Debug\net10.0\to do list.genruntimeconfig.cache
+C:\Users\anaca\Desktop\to do list\obj\Debug\net10.0\ref\to do list.dll
